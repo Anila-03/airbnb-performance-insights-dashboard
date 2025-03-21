@@ -1,7 +1,7 @@
 ## Airbnb Performance Insights Dashboard
 Welcome to the Airbnb Performance Insights Dashboard repository! This Power BI dashboard provides a comprehensive analysis of Airbnb’s business performance, including revenue trends, occupancy rates, guest reviews, and market performance.
 
-## Live Interactive Dashboard: _[sf]
+## Live Interactive Dashboard: _[AIRBNB](https://app.powerbi.com/groups/0287eb28-7f32-4d4b-a01f-da51ed19db68/reports/c49c5358-623f-46ea-a80c-893f09fca9a5/a9031e0a93003d4d8cd8?experience=power-bi)_
 
 ## Table of Contents:
 1. Project Overview
@@ -40,21 +40,27 @@ The dashboard uses data from the following sources:
 ## Dashboard Views:
 The dashboard is divided into the following views:
 
-- Home Page:
+- Home Page: _[Home Page](https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Home%20Page%20Airbnb.png)_
+  
 - Finance View:
 Track revenue trends, identify top-earning neighborhoods, and monitor profitability to make informed financial decisions.
+ _[FInance Page](https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/FInance%20Airbnb.png)_
 
 - Listings & Host View:
 Explore listing availability, identify top hosts, and analyze average availability to understand host performance.
+ _[Listings Page](https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Lisitngs%20Airbnb.png)_
 
 Location & Neighborhood View-
 Visualize listing distribution across neighborhoods, uncover regional trends, and identify high-performing areas.
+ _[Location Page](https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Home%20Page%20Airbnb.png)_
 
 - Customer View
 Analyze room type preferences, track customer satisfaction, and monitor booking patterns to enhance guest experiences.
+ _[Customer Page](https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Customer%20Airbnb.png)_
 
 Booking & Trends View
 Discover seasonal trends, monitor occupancy rates, and analyze booking patterns to optimize pricing and availability.
+ _[Bookings Page](https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Booking%20Airbnb.png)_
 
 Technical Details
 Tools Used:
@@ -77,9 +83,14 @@ DAX Studio for query optimization.
 
 Incremental data refresh for large datasets.
 
-https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Home%20Page%20Airbnb.png
-https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/FInance%20Airbnb.png
-https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/FInance%20Airbnb.png
-https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Lisitngs%20Airbnb.png
-https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Customer%20Airbnb.png
-https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Booking%20Airbnb.png
+## Connect with Me
+If you have any questions or feedback, feel free to reach out:
+
+LinkedIn: [https://www.linkedin.com/in/anilakathi/]
+
+
+
+
+
+
+
