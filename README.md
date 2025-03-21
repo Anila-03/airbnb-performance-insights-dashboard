@@ -50,43 +50,43 @@ Track revenue trends, identify top-earning neighborhoods, and monitor profitabil
 Explore listing availability, identify top hosts, and analyze average availability to understand host performance.
  _[Listings Page](https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Lisitngs%20Airbnb.png)_
 
-Location & Neighborhood View-
+- Location & Neighborhood View-
 Visualize listing distribution across neighborhoods, uncover regional trends, and identify high-performing areas.
- _[Location Page](https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Home%20Page%20Airbnb.png)_
+ _[Location Page](https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Location%20Airbnb.png)_
 
 - Customer View
 Analyze room type preferences, track customer satisfaction, and monitor booking patterns to enhance guest experiences.
  _[Customer Page](https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Customer%20Airbnb.png)_
 
-Booking & Trends View
+- Booking & Trends View
 Discover seasonal trends, monitor occupancy rates, and analyze booking patterns to optimize pricing and availability.
  _[Bookings Page](https://github.com/Anila-03/airbnb-performance-insights-dashboard/blob/main/Booking%20Airbnb.png)_
 
-Technical Details
+## Technical Details:
 Tools Used:
 
-Power BI for data visualization and dashboard design.
+- Power BI for data visualization and dashboard design.
 
-Power Query for data transformation and cleaning.
+- Power Query for data transformation and cleaning.
 
-DAX (Data Analysis Expressions) for calculated columns and measures.
+- DAX (Data Analysis Expressions) for calculated columns and measures.
 
 Data Modeling:
 
-Star schema for efficient data relationships.
+- Star schema for efficient data relationships.
 
-Date table for time-based analysis.
+- Date table for time-based analysis.
 
 Performance Optimization:
 
-DAX Studio for query optimization.
+- DAX Studio for query optimization.
 
-Incremental data refresh for large datasets.
+- Incremental data refresh for large datasets.
 
 ## Connect with Me
 If you have any questions or feedback, feel free to reach out:
 
-LinkedIn: [https://www.linkedin.com/in/anilakathi/]
+LinkedIn:  _[Connect with me here](https://www.linkedin.com/in/anilakathi/)_
 
 
 
